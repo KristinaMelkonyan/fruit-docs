@@ -5,7 +5,7 @@
 ## 🎯 Наши преимущества
 
 ~~Обычные поставщики~~ → **Прямые контракты с плантациями!**
-[![Экзотические фрукты]](https://izvestiy-kamen.ru/wp-content/uploads/2025/07/pngtree-several-colorful-tropical-fruits-are-shown-on-a-table-image_2584530.jpg)
+![Экзотические фрукты](https://izvestiy-kamen.ru/wp-content/uploads/2025/07/pngtree-several-colorful-tropical-fruits-are-shown-on-a-table-image_2584530.jpg)
 | Параметр | Раньше | Сейчас |
 |----------|--------|--------|
 | Срок доставки | ~~7-14 дней~~ | **2-5 дней** |
